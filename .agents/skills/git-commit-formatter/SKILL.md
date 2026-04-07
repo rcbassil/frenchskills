@@ -26,7 +26,7 @@ Lors de la rédaction d'un message de commit git, vous DEVEZ suivre la spécific
 
 1. Analyser les changements pour déterminer le `type` principal.
 2. Identifier la `portée` si applicable (ex. : composant ou fichier spécifique).
-3. Rédiger une `description` concise à l'impératif (ex. : « ajouter une fonctionnalité » et non « a ajouté une fonctionnalité »).
+3. Rédiger une `description` en français et concise à l'impératif (ex. : « ajouter une fonctionnalité » et non « a ajouté une fonctionnalité »).
 4. En cas de changements majeurs incompatibles, ajouter un pied de page commençant par `BREAKING CHANGE:`.
 
 ## Exemple
