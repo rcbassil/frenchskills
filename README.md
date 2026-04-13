@@ -19,6 +19,12 @@ uv sync
 pip install .
 ```
 
+## Architecture
+
+![Architecture du projet](docs/frenchskills-architecture.drawio.svg)
+
+> Diagramme source modifiable : [`docs/frenchskills-architecture.drawio`](docs/frenchskills-architecture.drawio)
+
 ## Structure du Projet
 
 Le projet est organisé autour de fichiers de définition de compétences :
@@ -26,6 +32,7 @@ Le projet est organisé autour de fichiers de définition de compétences :
 - `SKILL.md` (racine) : Contient la définition de la compétence **Analyseur de Vulnérabilités**.
 - `.agents/skills/` : Dossier contenant d'autres compétences modulaires.
 - `main.py` : Point d'entrée simple pour tester l'environnement Python.
+- `docs/` : Documentation visuelle (diagrammes d'architecture).
 
 ## Skills Disponibles
 
