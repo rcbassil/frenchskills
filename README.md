@@ -48,6 +48,9 @@ Automatise la génération et la maintenance de la documentation du projet pour 
 ### 3. Formateur de Commits (`git-commit-formatter`)
 Assure que tous les messages de commit respectent la spécification **Conventional Commits** (`feat`, `fix`, `docs`, etc.), facilitant ainsi la génération automatique de changelogs.
 
+### 4. Diagrammes Draw.io (`drawio`)
+Génère des fichiers `.drawio` natifs à partir d'une description en langage naturel, avec export optionnel en PNG, SVG ou PDF (XML intégré, fichier restant modifiable dans draw.io).
+
 ## Engagement de Sécurité
 
 Le projet `frenchskills` suit des standards de sécurité rigoureux. Des audits automatisés de composition logicielle (SCA) et de tests statiques de sécurité (SAST) sont réalisés régulièrement pour garantir l'absence de vulnérabilités connues et de failles de configuration.
