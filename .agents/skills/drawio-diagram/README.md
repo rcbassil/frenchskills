@@ -51,7 +51,7 @@ La double extension `.drawio.*` indique que le fichier contient du XML de diagra
 ## Référence XML
 
 La compétence référence le guide de génération XML partagé (routage des arêtes, conteneurs, calques, balises, métadonnées, mode sombre, etc.) depuis GitHub lors de l'exécution :
-[`shared/xml-reference.md`](../shared/xml-reference.md)
+https://raw.githubusercontent.com/jgraph/drawio-mcp/main/shared/xml-reference.md
 
 C'est la source de vérité unique pour toutes les invites draw.io MCP du dépôt. Aucun fichier supplémentaire n'est nécessaire lors de l'installation.
 
